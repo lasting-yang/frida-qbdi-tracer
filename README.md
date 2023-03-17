@@ -12,10 +12,12 @@
 ## Trace结果
 
 运行命令:
+
 ![image-1](image/image-1.png)
 
 
 日志如下:
+
 ![image-2](image/image-2.png)
 
 ## 异常问题
