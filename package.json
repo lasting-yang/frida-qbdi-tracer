@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "prepare": "npm run build",
+    "build": "frida-compile agent.js -o _agent.js -c -S",
+    "watch": "frida-compile agent.js -o _agent.js -w -S"
+  },
+  "dependencies": {
+    "frida-compile": "^16.1.8"
+  }
+}
